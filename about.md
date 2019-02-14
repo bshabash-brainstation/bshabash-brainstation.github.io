@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Boris currently teaches at BrainStation and so far these are the best Data Science students he ever taught
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Incidentally, this are the only Data Science students he ever taught 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bshabash@brainstation.io](mailto:bshabash@brainstation.io)
