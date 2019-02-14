@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: This is My First Data Science Post
 ---
 
