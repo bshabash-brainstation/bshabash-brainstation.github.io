@@ -8,7 +8,7 @@ Boris currently teaches at BrainStation and so far these are the best Data Scien
 
 ### More Information
 
-Incidentally, this are the only Data Science students he ever taught 
+Incidentally, these are the only Data Science students he ever taught 
 
 ### Contact me
 
