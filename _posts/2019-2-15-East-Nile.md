@@ -21,6 +21,7 @@ import pandas as pd
 data18 = pd.read_csv('nndss-west-nile-virus-disease/nndss-table-ii.-west-nile-to-zika.csv')
 # data17 = pd.read_csv('nndss-west-nile-virus-disease/nndss-table-ii.-west-nile-virus-disease.csv')
 
+
 {% endhighlight %}
 
 Now I have a dataset that specifies the State, week of the year, and cumulative number of neuroinvasive and non-neuroinvasive cases of West Nile virus and Zika virus. I upload this into Tableau and created some visualisations to better understand West Nile virus in the US.
