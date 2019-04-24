@@ -4,11 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-Boris currently teaches at BrainStation and so far these are the best Data Science students he taught
+Boris currently teaches at BrainStation and he is the best data science instructor there
 
 ### More Information
 
-Incidentally, these are the only Data Science students he ever taught 
+Incidentally, he is the only data science instructor there
 
 ### Contact me
 
