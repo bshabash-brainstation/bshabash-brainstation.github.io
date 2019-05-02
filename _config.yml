@@ -86,4 +86,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-leap-day
+remote_theme: pages-themes/leap-day
